@@ -10,7 +10,7 @@ Welcome to our **Solana Web3 Coinflip Casino Game**! This casino game is an exci
 
 For inquiries, collaborations, or support, feel free to reach out:
 
-Telegram TG(https://t.me/lucky_TG007)
+Telegram TG(https://t.me/yuto_kazuma)
 
 
 ## 🌟 Featurs
